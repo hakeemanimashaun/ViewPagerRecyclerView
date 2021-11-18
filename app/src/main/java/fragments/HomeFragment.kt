@@ -79,7 +79,7 @@ class HomeFragment : Fragment() {
                 Toast.makeText(requireContext(), "please enter a phone number", Toast.LENGTH_SHORT).show()
             }
             else if (!RegistrationFormUtil.checkMobile(mobileText)) {
-                Toast.makeText(requireContext(), "Invalid phone", Toast.LENGTH_SHORT).show()
+                Toast.makeText(requireContext(), "Invalid phone number", Toast.LENGTH_SHORT).show()
             }
             else {
                 communicator.passDataCom(
