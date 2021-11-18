@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">week-5-task-hakeemanimashaun</string>
+    <string name="submit">SUBMIt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="blank_cam_fragment">blank_cam_fragment</string>
+    <string name="home_text">HOME</string>
+    <string name="profile_text">PROFILE</string>
+    <string name="cam_text">CAM</string>
+    <string name="profile_registration_form">Profile Registration Form.</string>
+    <string name="firstname_lastname">firstname lastname</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="phone_number">phone number</string>
+    <string name="password">password</string>
+    <string name="already_have_an_account_login">already have an account? login.</string>
+    <string name="send_me_newsletters">send me newsletters</string>
+    <string name="camera_here">Camera here</string>
+    <string name="sex">sex</string>
+    <string name="name_here">name_here</string>
+    <string name="nil">Nill</string>
+</resources>
