@@ -2,13 +2,8 @@ package com.assignment.week_5_task_hakeemanimashaun
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ArrayAdapter
-
-import android.widget.Spinner
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationItemView
-import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.google.android.material.navigation.NavigationView
 import fragments.CamFragment
 import fragments.HomeFragment
 import fragments.ProfileFragment
